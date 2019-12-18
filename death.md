@@ -1,4 +1,4 @@
-Ayanami decided to commit suicide through depression.
+## Ayanami decided to commit suicide through depression.
 
   [Try for another ending?](home.md)
 
