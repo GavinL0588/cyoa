@@ -4,5 +4,5 @@
 
 ## Will you tell her?
 
-  [Ok ok I will tell you]()
+  [Ok ok I will tell you](ignore.md)
   [...](yourdeath.md)
