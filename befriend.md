@@ -5,4 +5,4 @@ What will you do?
 
 [Continue being friend with Ayanami](stay.md)
 
-[Ditch Ayanami for Ashley]()
+[Ditch Ayanami for Ashley](ditch.md)

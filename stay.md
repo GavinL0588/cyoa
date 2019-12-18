@@ -2,4 +2,4 @@ You two get along so well that people think you both are dating, and your friend
 
 [Hell yea we are going to the amusment park for the date!](date.md)
 
-[Nah I like being single]()
+[Nah I like being single](sadness.md)

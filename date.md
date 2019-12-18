@@ -4,3 +4,4 @@ You told her that you want to go on a date with her and she kindly accepted the 
 her feelings for you and how she enjoys being with you. She said that she loves you and wants to be with you forever and can't live without you. Will you accept it?
 
   [I love you too, lets be together forever](ending1.md)
+  [No thank you, I rather not](sadness.md)
