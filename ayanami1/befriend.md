@@ -3,6 +3,6 @@ What will you do?
 
 ![](https://danbooru.donmai.us/data/__ayanami_terebi_chan_and_shoboon_azur_lane_and_1_more_drawn_by_idaten93__b4acebf0264d6d502a6a9a20178d7def.png)
 
-[Continue being friend with Ayanami](ayanami1/stay.md)  
+[Continue being friend with Ayanami](ayanami1/stay.md)
 
-[Ditch Ayanami for Ashley]
+[Ditch Ayanami for Ashley]()
