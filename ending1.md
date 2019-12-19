@@ -2,4 +2,4 @@
 
 ![](https://static.zerochan.net/Ayanami.%28Azur.Lane%29.full.2426104.jpg)
 
-  **The End**
+  [**The End**](home.md)
