@@ -5,4 +5,4 @@
 
   [believe her](believequeen.md)
 
-  [don't belive her]()
+  [don't belive her](ignore.md)
